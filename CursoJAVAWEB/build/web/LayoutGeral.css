@@ -1,0 +1,45 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 06/07/2015, 17:06:56
+    Author     : Eduardo
+*/
+body{
+    
+    background-color: lightgreen;
+}
+    #Titulo{
+        position: absolute;        
+        left:  45%;
+        
+    }
+    
+     #Campos{
+        position: absolute;
+        top:15%;
+        left:  40%;
+        
+        
+    border-color: black;
+    border-left: 2px solid black;
+    border-right:  2px solid black;
+    border-top:  2px solid black;
+    border-bottom:   2px solid black;
+    background-color: buttonface; 
+    border-radius: 0px;
+    box-shadow: lightslategrey 0.5em 0.5em 0.5em 0.5em;
+        
+    }
+    
+     #Botoes{
+        position: absolute;
+        top:33%;
+        left:  49%;
+        
+    }
+    
+
+
